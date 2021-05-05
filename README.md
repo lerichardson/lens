@@ -1,3 +1,8 @@
-# lens
-The only open-source, privacy-friendly web browser, written in go  
-lens is only an idea. Please submit any suggestions or code snippets you think can help by [creating an issue](https://github.com/lerichardson/lens/issues/new)
+# Lens Browser
+Features | |
+--- | --- |
+👁️ Tracker Blocker | Built-in tracker blocker, inspired by EFF's [Privacy Badger](https://privacybadger.org/)
+🚅 S p e e d | Uses Chromium's superfast ["Blink"](https://www.chromium.org/blink) browser engine
+🆓 Always Free | Do I really need to say anything here?
+📖 Open Source | The whole nine yards, yada yada
+🖌️ Beautiful Design | Dark mode for the win, babyyyy
